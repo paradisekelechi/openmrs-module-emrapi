@@ -1,0 +1,13 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<dataset>
+	<patient patient_id="7" creator="1" date_created="2015-01-01 00:00:00"  voided="false"/>
+
+	<concept concept_id="19" retired="0" datatype_id="2" class_id="7" is_set="0" creator="1"
+			 date_created="2012-10-23 18:04:14" changed_by="1" date_changed="2012-10-23 18:04:14"
+			 uuid="36ba7721-fae0-4da4-aef2-7e476cc04bdf"/>
+
+	<encounter encounter_id="1000" encounter_type="2" patient_id="7" location_id="1" form_id="1" encounter_datetime="2008-08-01 00:00:00.0" creator="1" date_created="2008-08-18 14:09:05.0" voided="false" uuid="7779d653-393b-4118-9c83-a3715b82d4ac" visit_id="1010"/>
+
+	<obs obs_id="1002" person_id="7" concept_id="19" encounter_id="1000" obs_datetime="2008-08-15 00:00:00.0" location_id="1" value_text="duplicate" comments="" creator="1" date_created="2008-08-19 12:32:03.0" voided="false" uuid="e26cea2c-1b9f-666e-6511-f3ef6c88af6f"/>
+	<obs obs_id="1003" person_id="7" concept_id="19" encounter_id="1000" obs_datetime="2008-08-15 00:00:00.0" location_id="1" value_text="duplicate" comments="" creator="1" date_created="2008-08-19 12:32:03.0" voided="false" uuid="e26cea2c-1b9f-666e-b211-f3336c88af6f"/>
+</dataset>
